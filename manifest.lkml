@@ -35,7 +35,8 @@ application: sql_explorer {
       "dashboard",
       "create_dashboard",
       "create_content_favorite",
-      "delete_content_favorite"
+      "delete_content_favorite",
+      "connection_cost_estimate"
     ]
   }
 }
