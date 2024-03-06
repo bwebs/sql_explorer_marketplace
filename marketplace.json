@@ -9,7 +9,6 @@
   "constants": {
     "CONNECTION_NAME": {
       "label": "Connection Name",
-      "description": "Connection Description",
       "value_constraint": "connection"
     }
   },
