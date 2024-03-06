@@ -5,7 +5,7 @@ constant: CONNECTION_NAME {
   export: override_required
 }
 
-application: sqlrunner {
+application: sql_explorer {
   label: "SQL Explorer"
   url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.0.2/bundle.js",
   entitlements: {
