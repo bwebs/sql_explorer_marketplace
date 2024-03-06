@@ -1,0 +1,22 @@
+{
+  "label": "Looker SQL Explorer",
+  "category_label": "Applications",
+  "branding": {
+    "image_uri": "https://marketplace-api.looker.com/block-icons/google-cloud.png",
+    "tagline": "This application allows you to explore your SQL data in Looker's explore and adding to dashboards.",
+    "brand_color": "#FF7A00"
+  },
+  "constants": {
+    "CONNECTION_NAME": {
+      "label": "Connection Name",
+      "description": "Connection Description",
+      "value_constraint": "connection"
+    }
+  },
+  "models": [
+    {
+      "name": "sql_explorer",
+      "connection_constant": "CONNECTION_NAME"
+    }
+  ]
+}
