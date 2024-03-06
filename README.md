@@ -1,8 +1,8 @@
 # Installation
 
 - Create a new LookML Project by [cloning](https://cloud.google.com/looker/docs/create-projects#cloning_a_public_git_repository)
-  - project_name: sql_explorer
-  - git repository url: git://github.com/bwebs/sql_explorer_marketplace.git
+  - Project Name: sql_explorer
+  - Git Repository URL: git://github.com/bwebs/sql_explorer_marketplace.git
 - After the project is created and opened, navigate to the manifest.lkml file
   - Enter a value for the constant `CONNECTION_NAME`
   - This value should be the name of one of your connections in Admin > Connections.
