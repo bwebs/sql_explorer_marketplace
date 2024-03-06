@@ -14,7 +14,7 @@
   },
   "models": [
     {
-      "name": "sql_explorer",
+      "name": "sql-explorer",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
