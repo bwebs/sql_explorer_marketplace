@@ -1,10 +1,5 @@
 project_name: "sql_explorer"
 
-constant: CONNECTION_NAME {
-  value: "connection_name"
-  export: override_required
-}
-
 application: sql_explorer {
   label: "SQL Explorer"
   url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.0.2/bundle.js",
@@ -43,4 +38,9 @@ application: sql_explorer {
       "delete_content_favorite"
     ]
   }
+}
+
+constant: CONNECTION_NAME {
+  value: ""
+  export: override_optional
 }
