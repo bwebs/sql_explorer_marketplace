@@ -2,7 +2,7 @@ project_name: "sql_explorer"
 
 application: sql_explorer {
   label: "SQL Explorer"
-  url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.0.2/bundle.js",
+  url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.0.2/bundle.js"
   entitlements: {
     local_storage: yes
     navigation: yes

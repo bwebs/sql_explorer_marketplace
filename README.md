@@ -1,9 +1,9 @@
 # Installation
 
-Navigate to the [Looker Marketplace](https://bytecodeef.looker.com/marketplace/installed)
+Follow these instructions for [Installing an extension via Git URL](https://cloud.google.com/looker/docs/marketplace#installing_a_tool_from_a_git_url)
 
 - Git Repository URL
-- - git://github.com/bwebs/sql_explorer_dist.git
+- - https://github.com/bwebs/sql_explorer_marketplace.git
 - Git Commit SHA
 - - main
 
