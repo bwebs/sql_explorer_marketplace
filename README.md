@@ -1,6 +1,6 @@
 # Installation
 
-- Create a [new blank LookML Project](https://bytecodeef.looker.com/projects/new)
+- Create a [new blank LookML Project](https://cloud.google.com/looker/docs/create-projects) within your Looker instance
   - Project Name: sql_explorer
 - Download the [manifest.lkml](https://github.com/bwebs/sql_explorer_marketplace/blob/main/manifest.lkml) file drag it into the new project
   - Enter a value for the constant `CONNECTION_NAME`
