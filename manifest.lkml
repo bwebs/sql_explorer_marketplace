@@ -17,6 +17,7 @@ application: sql_explorer {
       "folder",
       "run_inline_query",
       "search_content_favorites",
+      "create_dashboard_element",
       "all_dashbaords",
       "all_lookml_models",
       "all_dashboards",
