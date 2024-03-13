@@ -14,6 +14,7 @@ application: sql_explorer {
       "me",
       "all_connections",
       "search_folders",
+      "folder",
       "run_inline_query",
       "search_content_favorites",
       "all_dashbaords",
