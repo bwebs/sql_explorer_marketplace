@@ -15,9 +15,7 @@ application: sql_explorer {
       "all_connections",
       "search_folders",
       "folder",
-      "run_inline_query",
       "search_content_favorites",
-      "create_dashboard_element",
       "all_dashbaords",
       "all_lookml_models",
       "all_dashboards",
@@ -27,18 +25,15 @@ application: sql_explorer {
       "create_query",
       "create_sql_query",
       "query_for_slug",
-      "look",
-      "run_look",
-      "all_looks",
       "connection_columns",
       "connection_tables",
       "connection_schemas",
       "connection_databases",
+      "connection_cost_estimate",
       "dashboard",
       "create_dashboard",
-      "create_content_favorite",
-      "delete_content_favorite",
-      "connection_cost_estimate"
+      "create_dashboard_element",
+      "update_dashboard_element"
     ]
   }
 }
