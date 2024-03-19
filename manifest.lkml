@@ -2,7 +2,7 @@ project_name: "sql_explorer"
 
 application: sql_explorer {
   label: "SQL Explorer"
-  url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.0.7/bundle.js"
+  url: "https://cdn.jsdelivr.net/gh/bwebs/sql_explorer_dist@v1.1.1/bundle.js"
   entitlements: {
     local_storage: yes
     navigation: yes
@@ -18,6 +18,7 @@ application: sql_explorer {
       "search_content_favorites",
       "all_dashbaords",
       "all_lookml_models",
+      "lookml_model",
       "all_dashboards",
       "search_dashboards",
       "run_sql_query",
